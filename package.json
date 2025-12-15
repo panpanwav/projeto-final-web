@@ -1,0 +1,27 @@
+{
+  "name": "fbw_loja",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "next": "16.0.8",
+    "react": "19.2.1",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "19.2.1",
+    "react-native-sqlite-storage": "^6.0.1",
+    "react-router-dom": "^7.10.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.8"
+  }
+}
